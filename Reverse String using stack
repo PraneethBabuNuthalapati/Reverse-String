@@ -20,7 +20,7 @@ void pop()
   
 void main()  
 {  
-   char str[]="Andhra Pradesh";  
+   char str[]="India is my country";  
    int l = strlen(str);  
    int i;  
   
